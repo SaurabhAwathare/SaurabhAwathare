@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SaurabhAwathare
+- 👀 I’m interested in mobile app development, particularly Android apps.
+- 🌱 I’m currently learning Kotlin and exploring advanced Android development techniques.
+- 💞️ I’m looking to collaborate on innovative mobile app projects and open-source initiatives.
+- 📫 How to reach me: [Gmail](monuawathare25@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/saurabhawathare](https://www.linkedin.com/in/saurabh-awathare-41a421182/))
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love hiking and have trekked to some of the highest peaks in my region.
